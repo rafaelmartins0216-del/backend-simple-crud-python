@@ -30,7 +30,6 @@ services.py → Contém a lógica de negócio
 
 main.py → Ponto de entrada da aplicação
 
-Se quiser deixar ainda mais profissional, adiciona:
 
 ▶️ Como executar
 python src/main.py
